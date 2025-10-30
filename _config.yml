@@ -1,0 +1,24 @@
+# Site settings
+title: Intelleximus
+description: Humanorum
+baseurl: ""
+url: "https://intelleximus-xyz.github.io"
+
+# Build settings
+markdown: kramdown
+
+# Navigation items
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about.html
+  - title: Blog
+    url: /blog.html
+  - title: Contact
+    url: /contact.html
+
+# Exclude from processing
+exclude:
+  - README.md
+  - .gitignore
